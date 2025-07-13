@@ -1,18 +1,6 @@
 # Mary Hardy - Portfolio Website
 
-A professional portfolio website template built with HTML and CSS. This project demonstrates a complete personal portfolio layout with modern design and responsive features.
-
-## 📁 Project Structure
-
-```
-├── index.html          # Main HTML file
-├── style.css           # Stylesheet
-└── images/             # Image assets folder
-    ├── hardy.png       # Profile picture
-    ├── developer.png   # Header background image
-    ├── header_bg.png   # Header decoration
-    └── icons/          # Technology and social icons
-```
+A professional portfolio website template built with clean and semantic HTML and modern CSS. This project demonstrates a complete personal portfolio layout featuring a sleek, modern design and fully responsive features that adapt seamlessly across different screen sizes and devices. It includes sections for an introduction, skills, projects, experience, and contact information, making it ideal for showcasing your work and professional background effectively.
 
 ## 🛠️ Technologies Used
 
@@ -61,17 +49,6 @@ A professional portfolio website template built with HTML and CSS. This project 
   - Message textarea
   - Submit button
 
-## 🎨 Design Highlights
-
-- **Color Scheme**: Orange accent (#FD6E0A) with neutral backgrounds
-- **Typography**: Open Sans for professional readability
-- **Layout**: Responsive flexbox design with clean spacing
-- **Visual Elements**: 
-  - Rounded corners and subtle shadows
-  - Background images and graphics
-  - Hover effects on interactive elements
-- **Responsive Design**: Adapts to different screen sizes
-
 ## 📱 Template Capabilities
 
 - Single-page application structure
@@ -82,14 +59,6 @@ A professional portfolio website template built with HTML and CSS. This project 
 - Social media links
 - Clean, professional aesthetic
 - Easily customizable content areas
-
-## 🖼️ Asset Integration
-
-- Profile photo placement
-- Background illustrations
-- Technology skill icons
-- Social media icons
-- Custom graphics support
 
 ## 💼 Use Case
 
